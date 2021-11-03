@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MichaelGB96
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in programming, music, sitcoms
-- 🌱 I’m currently learning python, git, HTML, SQL
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning python, and HTML & CSS
+- 💞️ I’m looking to collaborate on learning web development
 - 📫 How to reach me: mikegomezb96@gmail.com
 
 <!---
