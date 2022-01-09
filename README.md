@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Michael
+- 👋 Hi, I’m Miguel
 - 👀 I’m interested in programming, music, sitcoms
-- 🌱 I’m currently learning python, and HTML & CSS
+- 🌱 I’m currently learning JavaScript, HTML & CSS and Python
 - 💞️ I’m looking to collaborate on learning web development
 - 📫 How to reach me: mikegomezb96@gmail.com
 
